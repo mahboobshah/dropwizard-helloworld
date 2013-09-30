@@ -15,3 +15,5 @@ Admin: http://localhost:8081/
 Test line for checking CI between GitHub and Amazon EC2 instance..
 
 One more line added to check difference between different commit logs..
+
+Final line to test...
